@@ -6,7 +6,7 @@
   <a href="https://github.com/ZinhoTTV?tab=repositories&q=&type=&language=typescript&sort="><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"/</a> 
    <a href="https://github.com/ZinhoTTV?tab=repositories&q=&type=&language=angular&sort="><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/></a> 
    <a href="https://github.com/ZinhoTTV?tab=repositories&q=&type=&language=python&sort="><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/></a>
-   <a href="https://github.com/ZinhoTTV?tab=repositories&q=&type=&language=python&sort="><img src=" https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="Php"/></a>
+   <a href="https://github.com/ZinhoTTV?tab=repositories&q=&type=&language=php&sort="><img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="Php"/></a>
    
   
 </div>
